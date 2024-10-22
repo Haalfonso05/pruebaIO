@@ -1,2 +1,6 @@
-Spike este tiquito
-Monda
+{
+  "nombre ": "pepito perez",
+  "telefono": "555556666",
+  "correo": "pepito@gmail.com",
+  "fecha_creacion": "21/19/1993"
+}
