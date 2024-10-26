@@ -47,4 +47,14 @@ public class Persona {
     public void setFechaCrecion(String fechaCrecion) {
         this.fechaCrecion = fechaCrecion;
     }
+
+    @Override
+    public String toString() {
+        return "Persona{" +
+                "nombre='" + nombre + '\'' +
+                ", telefono='" + telefono + '\'' +
+                ", correo='" + correo + '\'' +
+                ", fechaCrecion='" + fechaCrecion + '\'' +
+                '}';
+    }
 }
